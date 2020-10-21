@@ -16,3 +16,6 @@ zuul:
     product-service: /product/**
   ignored-patterns: /*-service/**
   #ignored-services: product-service
+  
+env: default
+branch: main  
