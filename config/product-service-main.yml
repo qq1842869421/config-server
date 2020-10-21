@@ -6,3 +6,6 @@ spring:
     name: product-service
   zipkin:
     base-url: http://localhost:9411/
+    
+env: default
+branch: main
