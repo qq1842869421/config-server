@@ -42,3 +42,6 @@ management:
     web:
       exposure:
         include: "*"
+
+env: pilot
+branch: pilot
