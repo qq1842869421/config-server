@@ -43,5 +43,7 @@ management:
       exposure:
         include: "*"
         
-env: default
-branch: main
+env:
+  test: default
+branch:
+  test: main
